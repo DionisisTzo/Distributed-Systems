@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Wed Jun 10 14:45:16 EEST 2020*/
+/* DO NOT EDIT */
+
+grant {
+  permission java.net.SocketPermission "localhost:1099", "connect, resolve, accept";
+};
+
